@@ -1,0 +1,16 @@
+{
+    "name": "zkphp/tprbac",
+    "description": "The ThinkPHP5 Rbac Package.",
+    "authors": [
+        {
+            "name": "zk",
+            "email": "1660610087@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "tprbac\\": ""
+        }
+    }
+}
